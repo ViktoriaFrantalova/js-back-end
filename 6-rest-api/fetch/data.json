@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Emil Pit",
+    "company": "Billa",
+    "phone": "123456789"
+  },
+  {
+    "id": 1,
+    "name": "Jana Sladkova",
+    "company": "Lidl",
+    "phone": "123456789"
+  },
+  {
+    "id": 2,
+    "name": "Ferko Galko",
+    "company": "Tesco",
+    "phone": "0244520452"
+  },
+  {
+    "id": 3,
+    "name": "Duri Kuri",
+    "company": "Albert",
+    "phone": "0425042404"
+  }
+]
